@@ -1,0 +1,19 @@
+div {
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+   
+  }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #111;
+}
+
+.Imagen1 {
+    width: 500px;
+    height: 300;
+
+}
