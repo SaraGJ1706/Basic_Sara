@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 160vh;
+    height: 170vh;
     background-color: #111;
     margin: 0 auto;
 }
@@ -33,5 +33,13 @@ h1, p {
 }
 
 a:link {
-    color:aquamarine;
+    color:turquoise;
+}
+
+a:visited {
+    color:violet;
+}
+
+a:hover {
+    color:blue;
 }
