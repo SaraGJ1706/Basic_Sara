@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 170vh;
+    height: 225vh;
     background-color: #111;
     margin: 0 auto;
 }
@@ -19,15 +19,22 @@ h1, p {
 }
 
 .Imagen1 {
-    width: 430px;
-    height: 230px;
+    width: 450px;
+    height: 220px;
     display: block;
     margin: 20px auto;
 }
 
-.Imagen2, .Imagen3 {
+.Imagen2 {
     width: 450px;
     height: 350px;
+    display: block;
+    margin: 20px auto;
+}
+
+.Imagen3 {
+    width: 450px;
+    height: 400px;
     display: block;
     margin: 20px auto;
 }
