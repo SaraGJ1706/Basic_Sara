@@ -1,19 +1,37 @@
 div {
-    width: 400px;
+    width: 450px;
     background-color: #fff;
-    padding: 20px;
-   
-  }
-  body {
+    padding: 10px;
+    margin: 0 auto;
+}
+
+body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 160vh;
     background-color: #111;
+    margin: 0 auto;
+}
+
+h1, p {
+    text-align: left;
 }
 
 .Imagen1 {
-    width: 500px;
-    height: 300;
+    width: 430px;
+    height: 230px;
+    display: block;
+    margin: 20px auto;
+}
 
+.Imagen2, .Imagen3 {
+    width: 450px;
+    height: 350px;
+    display: block;
+    margin: 20px auto;
+}
+
+a:link {
+    color:aquamarine;
 }
